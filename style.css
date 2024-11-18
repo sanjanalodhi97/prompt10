@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+}html,
+body{
+    width: 100%;
+    height: 100%;
+}
+
+.container2{
+    width: 100%;
+   height: 100%;
+   background-color:white;
+   align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.con2bor{
+    width: 90%;
+    height: 90%;
+    border: 1px solid black;
+    background-color: beige;
+    margin-left: 5%;
+   
+}
+.sc3{
+    width: 90%;
+    height: 70%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 5%;
+    
+
+}
+.c1{
+    width: 25%;
+    height: 85%;
+    background-color: white;
+    border-radius: 20px;
+    border: 0.5px solid black;
+}
+#h1f{
+    font-size: 30px;
+    color: black;
+    margin-left: 30%;
+}
+#h1f2{
+    font-size: 30px;
+    color: black;
+    margin-left: 30%;
+    margin-top: 5%;
+}
+#pf{
+    font-size: 15px;
+    color: black;
+    margin-left: 5%;
+}
+#h2{
+    font-size: 20px;
+    margin-left: 10%;
+    color: black;
+    margin-top: 3%;
+}
+#price{
+    margin-left: 20%;
+    background-color: rgb(13, 141, 141);
+    color: white;
+    font-size: 30px;
+    width: 200px;
+    height: 50px;
+    margin-top: 10%;
+}
+#price:hover{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+}
+.c2{
+    width: 25%;
+    height: 85%;
+    background-color: white;
+    border-radius: 20px;
+    border: 0.5px solid black;
+}
+.c3{
+    width: 25%;
+    height: 85%;
+    background-color: white;
+    border-radius: 20px;
+
+    border: 0.5px solid black;
+    
+}
+ h4{
+    font-size: 50px;
+    margin-left: 20%;
+    color: black;
+  
+    
+   
+   
+}
+
+#p1{
+    margin-left: 20%;
+    font-size: 20px;
+    color:black;
+   
+}
